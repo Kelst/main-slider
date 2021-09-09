@@ -33,7 +33,7 @@ useEffect(() => {
      <Header />
      
      <Switch>
-     <Route exact path="/">
+     <Route exact path="/main-slide">
                  <Slider />
           </Route>
           <Route path="/about">
